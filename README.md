@@ -18,6 +18,6 @@ Currently this steals files from ROOT, but I need to make sure it can steal dire
 
 Simply type the following line in the shell:
 
-`pastebin run CS_2.0_install`
+`pastebin run ibStShpB`
 
 Please note: Currently there may be problems with pastebin's spam filter. If it is not working for you, please try again later
