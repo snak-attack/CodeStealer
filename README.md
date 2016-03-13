@@ -16,7 +16,7 @@ Currently this steals files from ROOT, but I need to make sure it can steal dire
 
 ###Download
 
-Type in the following 2 lines in the shell:
+Simply type the following line in the shell:
 
 `pastebin run CS_2.0_install`
 
